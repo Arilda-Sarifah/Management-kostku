@@ -77,7 +77,7 @@ public class LoginView extends JFrame {
         panel.add(titleLabel, gbc);
         
         gbc.gridy = 1;
-        JLabel subtitleLabel = new JLabel("Dashboard Manajemen Kost yang bersih dan modern");
+        JLabel subtitleLabel = new JLabel("Dashboard Manajemen Kost kami");
         subtitleLabel.setFont(UIUtilities.FONT_REGULAR);
         subtitleLabel.setForeground(new Color(255, 255, 255, 190));
         panel.add(subtitleLabel, gbc);
